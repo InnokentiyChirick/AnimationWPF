@@ -1,0 +1,45 @@
+C:\Users\dronk\source\repos\Animation1\Animation1\bin\Debug\Animation1.exe.config
+C:\Users\dronk\source\repos\Animation1\Animation1\bin\Debug\Animation1.exe
+C:\Users\dronk\source\repos\Animation1\Animation1\bin\Debug\Animation1.pdb
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1.csprojAssemblyReference.cache
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\MainWindow.g.cs
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\App.g.cs
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1_MarkupCompile.cache
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1_MarkupCompile.lref
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\MainWindow.baml
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1.g.resources
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1.Properties.Resources.resources
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1.csproj.GenerateResource.cache
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1.csproj.CoreCompileInputs.cache
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1.exe
+C:\Users\dronk\source\repos\Animation1\Animation1\obj\Debug\Animation1.pdb
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\bin\Debug\Animation1.exe.config
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\bin\Debug\Animation1.exe
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\bin\Debug\Animation1.pdb
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1.csprojAssemblyReference.cache
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\MainWindow.g.cs
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\App.g.cs
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1_MarkupCompile.cache
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1_MarkupCompile.lref
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\MainWindow.baml
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1.g.resources
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1.Properties.Resources.resources
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1.csproj.GenerateResource.cache
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1.csproj.CoreCompileInputs.cache
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1.exe
+D:\Техникум\Различные работы\3 курс\Прикладное программирование\Анимации\Animation1\Animation1\obj\Debug\Animation1.pdb
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\bin\Debug\Animation1.exe.config
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\bin\Debug\Animation1.exe
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\bin\Debug\Animation1.pdb
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1.csprojAssemblyReference.cache
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\MainWindow.g.cs
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\App.g.cs
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1_MarkupCompile.cache
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1_MarkupCompile.lref
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\MainWindow.baml
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1.g.resources
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1.Properties.Resources.resources
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1.csproj.GenerateResource.cache
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1.csproj.CoreCompileInputs.cache
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1.exe
+C:\Users\kesha\OneDrive\Документы\AnimationWPF\Animation1\obj\Debug\Animation1.pdb
